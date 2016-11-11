@@ -1,4 +1,11 @@
 
+/**
+ * Write a description of s here.
+ * simple statistics
+ * @author: Tao Feng
+ * @Code Maintaninence:Zemin Wang, Lan Chang
+ */
+
 import java.util.*;
 
 public class SummaryStat {
